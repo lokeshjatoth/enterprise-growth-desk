@@ -6,7 +6,7 @@ A sales-operations portfolio sandbox for ERP, HCM, cloud and AI opportunities. Q
 
 ## Live demo
 
-**Deployment pending.** The verified live demo URL will be added here after deployment.
+[Open the live demo](https://lokeshjatoth.github.io/enterprise-growth-desk/)
 
 The hosted edition is a browser-local JavaScript demo. Each visitor starts with eight fictional opportunities. Edits and notes stay in that browser's storage, not in a shared server database. Clearing site storage or selecting **Reset my demo** removes those edits. Do not enter confidential information. No prospect data, API keys or sign-in are required.
 
